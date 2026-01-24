@@ -158,6 +158,13 @@ export const technologies = {
       img: "emailjs.png",
       level: "Basic",
       category: "Tools & Platforms"
+    },
+    {
+      id: 21,
+      name: "React",
+      img: "react.png",
+      level: "Basic",
+      category: "Frontend Frameworks & Libraries"
     }
   ]
 }
