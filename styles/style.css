@@ -418,7 +418,7 @@ main li a img {
     padding: var(--SPACING-MEDIUM);
     
     position: relative;
-    background: linear-gradient(aqua, aliceblue, aquamarine);
+    background: linear-gradient(aliceblue, lightgoldenrodyellow, aquamarine);
     border-radius: 25%;
 
 }
