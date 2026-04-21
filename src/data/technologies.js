@@ -1,22 +1,24 @@
 /*
   1. Programming Languages
-  2. Frontend Frameworks & Libraries
-  3. Backend & Server-Side Technologies
-  4. Database & Cloud Services
-  5. Tools & Platforms
-  6. Mobile & Cross-Platform Development
-  7. Other Libraries & Utilities
+  2. Query Languages
+  3. Frontend Frameworks & Libraries
+  4. Backend & Server-Side Technologies
+  5. Database & Cloud Services
+  6. Tools & Platforms
+  7. Mobile & Cross-Platform Development
+  8. Other Libraries & Utilities
 */
 
 export const technologies = {
   categories: [
     "Programming Languages",
+    "Query Languages",
     "Frontend Frameworks & Libraries",
     "Backend & Server-Side Technologies",
     "Database & Cloud Services",
     "Tools & Platforms",
     "Mobile & Cross-Platform Development",
-    "Other Libraries & Utilities"
+    "Other Libraries & Utilities",
   ],
   technologies: [
     {
@@ -165,6 +167,34 @@ export const technologies = {
       img: "react.png",
       level: "Basic",
       category: "Frontend Frameworks & Libraries"
+    },
+    {
+      id: 22,
+      name: "Java",
+      img: "java.png",
+      level: "Basic",
+      category: "Programming Languages"
+    },
+    {
+      id: 23,
+      name: "Vitest",
+      img: "vitest.png",
+      level: "Basic",
+      category: "Tools & Platforms"
+    },
+    {
+      id: 24,
+      name: "Tailwind CSS",
+      img: "tailwind.png",
+      level: "Basic",
+      category: "Frontend Frameworks & Libraries"
+    },
+    {
+      id: 25,
+      name: "SQL",
+      img: "sql.png",
+      level: "Basic",
+      category: "Query Languages"
     }
   ]
 }
